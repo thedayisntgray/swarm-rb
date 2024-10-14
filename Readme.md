@@ -1,4 +1,5 @@
-![Swarm Logo](assets/logo.png)
+![Swarm Logo](https://github.com/user-attachments/assets/4fe8217b-8586-4bd7-b0fd-e887d4740f19)
+
 
 # Swarm-RB (experimental, educational)
 
