@@ -5,6 +5,14 @@
 
 An educational framework exploring ergonomic, lightweight multi-agent orchestration in Ruby. It is a port of [Swarm](https://github.com/openai/swarm/tree/main/swarm) created by Open AI.
 
+## Demo
+
+<div>
+    <a href="https://www.loom.com/share/bd6ff03190fb47eb9c21232d3c7f1559">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bd6ff03190fb47eb9c21232d3c7f1559-a01a5bce186cd60c-full-play.gif">
+    </a>
+  </div>
+
 ## Install
 
 ```shell
