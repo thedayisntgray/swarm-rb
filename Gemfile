@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "ruby-openai", "~> 5.2"
+gem "ruby-openai", "~> 7.3"
 gem "dry-struct", "~> 1.6"
 gem "colorize"
 
